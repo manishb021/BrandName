@@ -25,7 +25,7 @@ button {
   max-width: 1280px;
 }
 nav {
-  background-color: rgb(219, 212, 212);
+  background-color: white;
   display: flex;
   justify-content: space-between;
   height: 72px;
